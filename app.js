@@ -89,7 +89,7 @@ function renderAll() {
 }
 
 
-renderAll();
+//renderAll();
 
 // local storage:
 function saveData(data) {
